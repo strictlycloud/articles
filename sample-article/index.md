@@ -1,5 +1,5 @@
 ---
-title: "This is a test blog and got updated in github for further testing."
+title: "This is a sample article to reference some of the layout."
 description: "This description will be used for the article listing and search results on Google."
 date: "2021-05-28"
 banner:
